@@ -1,0 +1,15 @@
+
+1. Telemetry and tracing in practice
+
+2. Distributed tracing and observability
+
+3. Distributed systems and microservices architecture
+
+4. Cloud-native development and deployment
+
+5. Containerization and orchestration (Docker, Kubernetes)
+
+6. AWS, Azure, and Google Cloud Platform
+
+7. I18N & localization best practices.
+
